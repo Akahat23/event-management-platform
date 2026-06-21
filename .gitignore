@@ -1,0 +1,31 @@
+# Portable tools
+/maven/
+/maven.zip
+
+# Word Documents
+*.docx
+*.pdf
+
+# Spring Boot Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/bin/
+
+# React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
