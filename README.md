@@ -9,7 +9,7 @@ The project uses a secure **Layered MVC (Model-View-Controller) Architecture** t
 ## 🛠️ Tech Stack
 
 ### Backend
-*   **Java 17 / 25**
+*   **Java 25**
 *   **Spring Boot 3.2.5**
 *   **Spring Security & stateless JWT** (JSON Web Tokens)
 *   **Spring Data JPA & Hibernate**
